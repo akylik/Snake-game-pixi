@@ -1,5 +1,3 @@
-# PIXI.JS Project Template
-This is a template for [PIXI.JS](https://www.pixijs.com) projects, including the webpack, webpack-cli and webpack-dev-server.
 
 For up and running:
 ```

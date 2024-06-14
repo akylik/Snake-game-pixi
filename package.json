@@ -1,0 +1,23 @@
+{
+  "name": "pixi-template",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "Ahmad-Fz",
+  "license": "MIT",
+  "dependencies": {
+    "pixi-sound": "^3.0.5",
+    "pixi.js": "^6.3.2"
+  },
+  "devDependencies": {
+    "stats.js": "^0.17.0",
+    "webpack": "^5.72.1",
+    "webpack-cli": "^4.9.2",
+    "webpack-dev-server": "^4.9.0",
+    "webpack-merge": "^5.8.0"
+  },
+  "scripts": {
+    "start": "webpack-dev-server --host 0.0.0.0 --config webpack.dev.js",
+    "build": "webpack --config webpack.prod.js" 
+  }
+}

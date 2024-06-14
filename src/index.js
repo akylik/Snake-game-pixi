@@ -3,6 +3,7 @@ import Sound from "pixi-sound";
 import Stats from "stats.js";
 import { Game } from "./Game";
 import { CONFIG } from "./config";
+import '../public/css/app.css';
 
 const app = new PIXI.Application({
     width: CONFIG.GAME_WIDTH,

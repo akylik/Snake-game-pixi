@@ -1,9 +1,9 @@
 {
-  "name": "pixi-template",
+  "name": "pixi-snake",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "author": "Ahmad-Fz",
+  "author": "akylik",
   "license": "MIT",
   "dependencies": {
     "pixi-sound": "^3.0.5",
